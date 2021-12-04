@@ -1,5 +1,5 @@
 import React from 'react';
-import MobtexApp from './page/MobtexApp';
+import MobtexApp from './page';
 import Global from './styles/Global';
 
 const App: React.FC = () => (
